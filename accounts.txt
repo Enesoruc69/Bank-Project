@@ -1,0 +1,3 @@
+123456,Derya Pamuk,8100.0
+343434,Elif Oymak,10847.0
+696969,Enes Oruc,50000.0
